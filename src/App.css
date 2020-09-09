@@ -1,2 +1,7 @@
+.app ::-webkit-scrollbar {
+  display: none;
+}
 .app {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
 }
