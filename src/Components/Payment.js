@@ -1,5 +1,4 @@
 import React from "react";
-import { CardElement } from "@stripe/react-stripe-js";
 import "./Payment.css";
 import { useStateValue } from "../StateProvider";
 import CheckoutProduct from "./CheckoutProduct";
@@ -43,24 +42,7 @@ function Payment() {
           <div className="payment__title">
             <h3>Payment method</h3>
           </div>
-          <div className="payment__details">
-            {/*  <CardElement
-              options={{
-                style: {
-                  base: {
-                    fontSize: "16px",
-                    color: "#424770",
-                    "::placeholder": {
-                      color: "#aab7c4",
-                    },
-                  },
-                  invalid: {
-                    color: "#9e2146",
-                  },
-                },
-              }}
-            /> */}
-          </div>
+          <div className="payment__details"></div>
         </div>
       </div>
     </div>
