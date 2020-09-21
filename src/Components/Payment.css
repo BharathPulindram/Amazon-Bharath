@@ -21,12 +21,7 @@
   flex: 0.2;
 }
 .payment__address,
-.payment__items {
-  flex: 0.8;
-}
+.payment__items,
 .payment__details {
-  background-color: rgb(224, 250, 240);
-  height: 200px;
-  width: 300px;
-  box-shadow: 5px 5px 10px 3px rgb(109, 107, 107);
+  flex: 0.8;
 }
