@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Amazon-Bharath/static/css/main.2d59a205.chunk.css",
+    "main.js": "/Amazon-Bharath/static/js/main.03c7ba43.chunk.js",
+    "main.js.map": "/Amazon-Bharath/static/js/main.03c7ba43.chunk.js.map",
+    "runtime-main.js": "/Amazon-Bharath/static/js/runtime-main.79953317.js",
+    "runtime-main.js.map": "/Amazon-Bharath/static/js/runtime-main.79953317.js.map",
+    "static/js/2.5caae534.chunk.js": "/Amazon-Bharath/static/js/2.5caae534.chunk.js",
+    "static/js/2.5caae534.chunk.js.map": "/Amazon-Bharath/static/js/2.5caae534.chunk.js.map",
+    "index.html": "/Amazon-Bharath/index.html",
+    "precache-manifest.89c8a0f39abcd61ccaf768ca7418ae43.js": "/Amazon-Bharath/precache-manifest.89c8a0f39abcd61ccaf768ca7418ae43.js",
+    "service-worker.js": "/Amazon-Bharath/service-worker.js",
+    "static/css/main.2d59a205.chunk.css.map": "/Amazon-Bharath/static/css/main.2d59a205.chunk.css.map",
+    "static/js/2.5caae534.chunk.js.LICENSE.txt": "/Amazon-Bharath/static/js/2.5caae534.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79953317.js",
+    "static/js/2.5caae534.chunk.js",
+    "static/css/main.2d59a205.chunk.css",
+    "static/js/main.03c7ba43.chunk.js"
+  ]
+}
